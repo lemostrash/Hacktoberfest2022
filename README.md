@@ -83,6 +83,7 @@ git push origin branch-name
 <img src="https://github.com/Meghwantsingh/Hacktoberfest2022/blob/main/LogPic/hack.JPG" width="1000%">
 
 ## Watch this video if you are a beginner
+
 <p align="center">
     <a href="https://www.youtube.com/watch?v=pRow-Kc12rs">
         <img src="https://i.imgur.com/7td0HiC.jpg" width="1000%">
@@ -91,3 +92,4 @@ git push origin branch-name
 
 - In the video you will learn to research which challenge suits your knowledge.
 - Good event and have fun :)
+- Be careful not to accidentally delete a pull request.
